@@ -1,0 +1,12 @@
+.trainHeader {
+    color: blue;
+    text-align: center;
+}
+
+.bodyDiv {
+    max-width: 70%;
+    margin: auto;
+    border: 3px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+}
